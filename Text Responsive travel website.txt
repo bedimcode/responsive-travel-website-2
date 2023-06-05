@@ -1,0 +1,132 @@
+========== HEADER ==========
+.nav__logo
+Travel
+
+.nav__link
+Home - About - Popular - Explore
+
+
+========== HOME ==========
+.home__subtitle
+Welcome To Travel
+
+.home__title
+Explore <br>
+The World
+
+.home__description
+Live the trips exploring the world, discover 
+paradises, islands, mountains and much 
+more, get your trip now.
+
+.button
+Start Your Journey
+
+.home__card-title
+Croatia
+Iceland
+Italy
+Spain
+
+
+========== ABOUT  ==========
+.section__title
+Learn More <br>
+About Travel
+
+.about__description
+All the trips around the world are a great 
+pleasure and happiness for anyone, enjoy 
+the sights when you travel the world. Travel 
+safely and without worries, get your trip and 
+explore the paradises of the world.
+
+.button
+Explore Travel
+
+
+========== POPULAR ==========
+.section__title
+Enjoy The Beauty <br>
+Of The World
+
+.popular__title .popular__location
+Logan Mountain
+Canadá
+
+Spike Forest
+Irland
+
+Garda Lake
+Italy
+
+
+========== EXPLORE ==========
+.section__title
+Explore The <br> 
+Best Paradises
+
+.explore__description
+Exploring paradises such as islands and 
+valleys when traveling the world is one of 
+the greatest experiences when you travel, it 
+offers you harmony and peace and you 
+can enjoy it with great comfort.
+
+.explore__name
+Paul Jeams
+
+
+========== JOIN ==========
+.section__title
+Your Journey <br>
+Starts Here
+
+.join__description
+Get up to date with the latest 
+travel and information from us.
+
+.join__input placeholder
+Enter your email
+
+.join__button
+Subscribe Our Newsletter
+
+
+========== FOOTER ==========
+.footer__logo
+Travel
+
+.footer__description
+Travel with us and explore <br> 
+the world without limits.
+
+footer__title .footer__link
+About
+ About Us
+ Features
+ News & Blog
+
+Company
+ FAQs
+ History
+ Testimonials
+
+Contact
+ Call Center
+ Support Center
+ Contact Us
+
+Support
+ Privacy Policy
+ Terms & Services
+ Payments
+
+.footer__social-link
+https://www.facebook.com/
+https://www.instagram.com/
+https://twitter.com/
+https://www.youtube.com/
+
+.footer__copy
+&#169; Copyright Bedimcode. All rights reserved
